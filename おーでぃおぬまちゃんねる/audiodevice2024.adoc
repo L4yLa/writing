@@ -1,0 +1,61 @@
+= おーでぃおぬま向け おすすめデバイス
+ 
+おーでぃおぬまちゃんねる勢向けに音響機材のおすすめを紹介します。 +
+今の機材からのステップアップの参考になれば幸いです。
+
+== オーディオインターフェース
+
+配信勢向けにおすすめのオーディオインターフェースをいくつか紹介します。
+
+WARNING: 本書では "ループバック" という機能について、 +
+「DAWやVSTホストにマイクからの音声を入力したあと、出力した信号を内部ループバックして独立した入力として扱うことができる機能」を指します。 +
+マイク入力にPCからの出力をMIXする機能（ex. AG03のLoopback)などはこれに該当しません。
+
+=== audient iD24
+image:https://allaccess.co.jp/audient/id24/id24_4.jpg[width=640]
+
+* URL: https://allaccess.co.jp/audient/id24/
+* 参考価格: \57,000-
+
+マイクプリの評価が良いADAT入出力付きで、ループバック機能がステレオ1系統分あります。
+新しい世代の製品にはほぼループバック機能が付いています（iD4mkⅡ、iD14mkⅡ、iD44mkⅡなど）
+
+---
+
+=== Focusrite Vocaster One/Two
+image:https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/380w/products/130/487/vocaster-two-left-2400-2400__36378.1685463960.jpg?c=3[width=640]
+
+* URL: https://focusrite.com/vocaster
+* 参考価格: \13,000-(One) \20,000-(Two)
+
+この価格帯でループバックチャンネルがステレオ2系統分もあるので配信用としてかなり自由度が高いです。
+配信用PCで使用中。 +
+2024年1月現在、一部の店舗で取り扱いが無くなっている様子。
+
+---
+
+=== Steinberg UR22C
+image:https://ocl-steinberg-live.steinberg.net/_storage/asset/68389/storage/PNG_large_2000px/68389-large.png[width=640]
+
+* URL: https://www.steinberg.net/ja/audio-interfaces/ur22c/
+* 参考価格: \22,000-
+
+最近のdspMixFX UR-CのVersion 3アップデートにてループバック機能が実装されました。
+（元々あるLoopback機能ではなく、追加されたStreamingバスを使うことで実現可能です）
+
+---
+
+== マイク
+
+=== 製品名
+* URL: 
+* 参考価格: 
+
+== プラグインエフェクト
+
+=== 製品名
+* URL: 
+* 参考価格: 
+
+
+
