@@ -17,12 +17,23 @@ image:https://allaccess.co.jp/audient/id24/id24_4.jpg[width=640]
 * URL: https://allaccess.co.jp/audient/id24/
 * 参考価格: \57,000-
 
-マイクプリの評価が良いADAT入出力付きで、ループバック機能がステレオ1系統分あります。
+マイクプリの評価が良いaudient。ADAT入出力付きで、ループバック機能がステレオ1系統分あります。
 新しい世代の製品にはほぼループバック機能が付いています（iD4mkⅡ、iD14mkⅡ、iD44mkⅡなど）
 
 ---
 
-=== Focusrite Vocaster One/Two
+=== audient evo 4/evo 8/evo 16
+image:https://allaccess.co.jp/audient/evo4/evo4_3re.jpg[width=640]
+
+* URL: https://allaccess.co.jp/audient/evo4/
+* 参考価格: \18,000-(evo4), \27,000-(evo8), \86,000-(evo16)
+
+audientのビギナー向けラインのevoシリーズ。こちらもループバック機能がステレオ1系統分あります。
+自動ゲイン調整機能など、宅録用途でも初心者向け
+
+---
+
+=== Focusrite Vocaster One/Vocaster Two
 image:https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/380w/products/130/487/vocaster-two-left-2400-2400__36378.1685463960.jpg?c=3[width=640]
 
 * URL: https://focusrite.com/vocaster
